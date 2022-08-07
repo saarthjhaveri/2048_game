@@ -335,7 +335,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 		}
 
 		if(z==0)
-			{resultDisplay.innerHTML='Sorry, You Loose'
+			{resultDisplay.innerHTML='Sorry, You Lose'
 			document.removeEventListener('keyup',control)}
 	}
 
